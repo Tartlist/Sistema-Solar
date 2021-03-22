@@ -1,0 +1,21 @@
+.planeta
+{
+    position: absolute;
+    border-radius: 50px;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    top: 50%;
+    left: 50%;
+    outline: none;
+    border:none;
+}
+
+button:focus {outline:0 !important;}
+
+.pipi
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
